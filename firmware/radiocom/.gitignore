@@ -1,0 +1,13 @@
+# Build artifacts
+Debug/
+Release/
+
+# IDE settings (user-specific)
+.settings/
+
+# OS files
+.DS_Store
+
+# STM32CubeIDE
+*.launch
+.osx.project
